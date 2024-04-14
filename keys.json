@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "terrform-413707",
+  "private_key_id": "a2a8e68d42af86746dcca868aaf569e8b22791d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDjNGtrOO9LbpQw\n1ejSgDXoyQTuNNI+QFZ6qUsOQuvselWuDp7dJrtott2ilT9KJxoFk1j8hHVj+qGw\nMB9I/z6IqZw3yiOGL2jsPWzAQZk4JOwNcfWUUTk7IWgOadHjxrTVghooWZTa56KI\nyWBTTNxVM3yPbJI5Vxoam+Q9nYVX36TUNOZayD2/s3TBl2CwRKbNJfKG6mpRSUGL\nCik1wV4Wpvgyg+9XiW870JV4h9wb84G9swNRZgfnmqcYhfXk3juiYOxbHALZxJcO\nsIMiey9yyiYmpnku2jGO0M/uT2XwpbpWZAtks0XvPebYfhUCmupDJr8lXptLJVtm\nOIp/YQfDAgMBAAECggEADxdPPzrz4f3BSBEdOsYbTo/zjOLjSBE77T/LZXIae4WQ\npVQBR00oS4dB52ekYYeBWfd0hKlDptVh4fMAUPfrLmadorMBcws5G9/klkyFIc6K\nA0abejN+6qeIYtSyhT+QiVHv7NguY+/Ywt8lT8MeK2aVEm2ytK5NZJEQMuuAjNqE\n6mWb8IeyCaPHlNwmX/IpMnSaLGVQCBqfpSQSUTxYnfRP/wYLPO+Gr3XxhzNID9LQ\nl1HPok69E1aT7IAtS4lRIXMVY9FbpLuTaQa3ni/rSO5WGQeK1uhBLpoLuVqZPfMN\n0PHw2Hd1DqT7akC93jnrSWVj/L0Dr8l0QiQDzup6IQKBgQD32BCfbq3jPrdyz/qS\n/CDYpXE/5g4JNkW/4Z5g02xhdPn0OaoWwLM9AnRwXFJyTciKYcokOyPzI6h25hDj\nvsLkQLJPE8qXFsGfOUEddhl7YVNxCn2R0/GSsR2dZEh8AYFIshtKIiiJN2UF99Nt\nGozJ6vOORCjXl3FnrxUCJgKtEwKBgQDqrntLy5o7X6ZeAK8FVRJFgNCYdUEJdD+v\nE7UXhjnTRTsLa9J6usiTFb4ukfUeWI4Ydg50KdHoawuyR72YfN/YXZyRsuV6OUQA\n6fPMp8NM3Y6GGWq4R9lEEmFfn3lDpWCPwKUZVVfk/z1/tarTQFduqTNJODCffJb0\nvS4fFU8AkQKBgQDHxy9nBFVAVv6Smpj1wCxN1dYa1rs7q7a/fAMpM2Mqj5snxQ+Y\ntY4FQKRRKen/XzmmajsBx3Yr9/NEnCDDI7J/QLM6UM69yUcbrJATSm4x6PrUpMsh\nMEGKqCAiDYLsCl6HFaIvuKcKLE/PZrvTN1KDNFNMux5c4iM0m4mIqNEBZwKBgFMb\n8WwZMYh/SiKWKWVBCFR21uh29c5MTdVJrGMlVMseBFf6GjL+fNOh6pUBeYYCpGfD\nP0EiIkUly6GaSGl9J6SvGih660uKhiuwrnc2njJVcAjLbYDPaQDzZWqAxmgPZA/k\nkFNVZugg//1/L3zal1wILbJrZMTGUYtgh7nYSP8RAoGBAJgZVOkEg4Xu/scVI+aE\ndLYS36iQAilMrDt6fTCHO4Ff7CPNvanCpMnohBDK4phqisfdiXJ1VJrH3PLogQTY\nNVPaavJgInps1ETqS+cRHbXzyop6IS9R83Qmh50ZkmnZzDEKXWZLB3bZ6saUCnMn\nbNKNIFZgcDp1UHU/fwb4uakr\n-----END PRIVATE KEY-----\n",
+  "client_email": "abu-jenkins@terrform-413707.iam.gserviceaccount.com",
+  "client_id": "105524025649945782415",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abu-jenkins%40terrform-413707.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
